@@ -7,6 +7,10 @@ android {
     namespace = "com.praktikum.prakpemob"
     compileSdk = 36
 
+    viewBinding {
+        enable = true
+    }
+
     defaultConfig {
         applicationId = "com.praktikum.prakpemob"
         minSdk = 24
