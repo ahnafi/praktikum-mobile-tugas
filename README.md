@@ -17,4 +17,4 @@ Shift KRS   : A
 ## Pertemuan 3 Tugas 2 (video/gif demo aplikasi)
 
 ### Video/gif aplikasi 
-<video src="docs/demo-navigasi.mp4" width="720"  controls></video>
+<video src="docs/demo-navigasi.mp4" width="480" height="960" controls></video>
